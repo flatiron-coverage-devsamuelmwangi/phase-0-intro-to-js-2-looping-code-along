@@ -1,4 +1,3 @@
-// Code your solutions in this file
 // Returns an array of thank you messages for each name provided to the function
 let writeCards = (listOfNames, nameOfEvent) => {
    let thankYouMessages = [];
